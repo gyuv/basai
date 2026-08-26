@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[68038,["/_next/static/chunks/9006a9dbed1389eb.js","/_next/static/chunks/a8de42a73cd3ef96.js","/_next/static/chunks/376b9f9ac91aa461.js","/_next/static/chunks/40ee3f5f8de69ca4.js"],"ProductsGrid"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"FqGqc7pWIZqrzGGoQCgit","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background flex flex-col items-center justify-center py-24","children":["$","div",null,{"className":"container-width px-4","children":[["$","div",null,{"className":"text-center mb-16","children":[["$","h1",null,{"className":"text-4xl md:text-6xl font-bold text-[var(--product-highlight)] mb-4","children":"Our Products"}],["$","p",null,{"className":"text-muted-foreground max-w-xl mx-auto text-lg","children":"Choose a category to explore our comprehensive range of industrial solutions."}]]}],["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","$L2",null,{}]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/40ee3f5f8de69ca4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
